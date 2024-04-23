@@ -1,0 +1,15 @@
+{
+    "id": "683ecfc5-3120-4002-a2c1-7f148586ce05",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Debdut Chakraborty",
+        "homepage": "https://debdutdeb.com",
+        "support": "n/a"
+    },
+    "name": "RFD Discussions",
+    "nameSlug": "rfd-discussions",
+    "classFile": "RfdDiscussionsApp.ts",
+    "description": "Creates discussions for open RFDs using webhooks"
+}
